@@ -1,5 +1,4 @@
-## Hi there! this my new project
-**Welcome to the Hotstart App Deployment project! This project demonstrates how to deploy a Hotstar Next.js application on Kubernetes cluster using modern DevOps tools, practices and following a DevSecOps approach.**
+**Welcome to the Hotstart App Deployment project tutorial! This project demonstrates how to deploy a Hotstar application on Kubernetes cluster using various DevOps tools.**
 
 ## 🛠️ **Tools & Services Used**
 
